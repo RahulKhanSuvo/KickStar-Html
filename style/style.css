@@ -17,7 +17,7 @@ h1 {
 
 #heading-parent {
     /* background-image: linear-gradient(45deg, rgb(164, 73, 182), rgb(197, 68, 133)); */
-    background-image: linear-gradient(0deg, #c031ad, transparent), url(/asset/hero.gif);
+    background-image: linear-gradient(0deg, #c031ad, transparent), url(../asset/hero.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
